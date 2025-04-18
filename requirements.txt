@@ -1,0 +1,6 @@
+telethon
+aiohttp
+python-dotenv
+loguru
+flake8
+pytest
